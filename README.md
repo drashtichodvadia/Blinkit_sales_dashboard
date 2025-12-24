@@ -1,5 +1,8 @@
 # 📊 BlinkIT Grocery Sales Dashboard
 
+🚀 **Live Demo:**  
+👉 https://drashtichodvadia.github.io/Blinkit_sales_dashboard/
+
 The **BlinkIT Grocery Sales Dashboard** is an interactive analytics project designed to explore how product attributes, outlet characteristics, and customer behavior influence overall sales. Built using Power BI and the BlinkIT dataset, this dashboard helps uncover meaningful insights that support data-driven retail decisions.
 
 ---
@@ -50,6 +53,7 @@ The goal of this project is to analyze BlinkIT’s grocery sales and identify pa
 - **Power BI** – Dashboard design & interactive visualizations  
 - **Microsoft Excel** – Data preparation and cleaning  
 - **DAX** – Calculated measures and data modeling  
+- **GitHub Pages** – Hosting the live demo  
 - **GitHub** – Version control and project documentation  
 
 ---
@@ -58,6 +62,7 @@ The goal of this project is to analyze BlinkIT’s grocery sales and identify pa
 
 - `blinkit.pbix` — Power BI dashboard file  
 - `BlinkIT Grocery Data.xlsx` — Dataset used for the analysis  
+- `index.html` — Live demo web page  
 - `README.md` — Project documentation  
 
 ---
